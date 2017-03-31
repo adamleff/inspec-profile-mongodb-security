@@ -1,0 +1,8 @@
+name: mongodb-security
+title: MongoDB Security Checklist
+maintainer: Adam Leff
+copyright: Chef Software, Inc.
+copyright_email: adamleff@chef.io
+license: Apache 2.0
+summary: An InSpec Compliance Profile that checks many of the suggestions from the MongoDB Security Checklist.
+version: 0.1.0
